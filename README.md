@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #💻 Analista de sistemas e Desenvolvedor Full Stack
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarlonTenorio&theme=midnight-purple&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarlonTenorio&theme=midnight-purple&count_private=true&show_icons=true&line_height=25%)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarlonTenorio&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
           
